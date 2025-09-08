@@ -17,6 +17,13 @@ export default function Home() {
           >
             Call API
           </Link>
+          <Link
+            href="https://github.com/dannrubio/new-vercel-app/tree/develop"
+            as="New Vercel App Repo (Develop)"
+            className="rounded-xl border px-4 py-2 hover:bg-gray-50"
+          >
+            Go to Develop
+          </Link>
           <a
             href="https://nextjs.org/docs"
             className="rounded-xl border px-4 py-2 hover:bg-gray-50"
